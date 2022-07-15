@@ -6,6 +6,18 @@ If you have any ideas for this project, you can fork it and add them to the [tod
 
 ## Config file
 
+```json
+{
+    "token": "token",
+    "bot_name": "Bot",
+    "description": "bot",
+    "settings": {
+        "some_setting": false, <-- placeholder
+        "log_level": "CRITICAL"
+    }
+}
+```
+
 ### Token
 
 `"token":` bot token from [discord developers](https://discord.com/developers) panel.
@@ -22,11 +34,11 @@ If you have any ideas for this project, you can fork it and add them to the [tod
 
 #### Some value
 
-`"some_value"`: Placeholder
+`"some_value":` Placeholder
 
 #### Logging Levels
 
-`"log_level:"`
+`"log_level:"` how indepth the logging is.
 
 - CRITICAL
 - ERROR
