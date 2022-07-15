@@ -2,6 +2,8 @@
 
 This is just another general bot repository trying to incorperate a bunch of features into **one** functioning bot, except for moderation. Because moderation is hard and there are already a bunch of great bots for that.
 
+If you have any ideas for this project, you can fork it and add them to the [todo.md](./todo.md) and/or code them yourself and make a pull request :).
+
 ## Config file
 
 ### Token
