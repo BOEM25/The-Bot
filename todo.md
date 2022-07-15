@@ -3,7 +3,7 @@
 >([about](./about.md) section)
 >> ^.^ cool info here ^.^  
 
-## **Core** features
+## *Core* features
 
 >main file
 
@@ -19,7 +19,7 @@
 - [ ] switch config file to toml???
 
 
-## **Fun** features
+## *Fun* features
 
 >music cog
 
