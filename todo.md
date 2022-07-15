@@ -3,6 +3,16 @@
 >([about](./about.md) section)
 >> ^.^ cool info here ^.^  
 
+---
+
+## *Project*
+
+- [ ] Switch config file to [toml](https://toml.io/en/)???
+- [ ] Add stats to [README.md](./README.md) cause it looks cool, [jstrieb github-stats](https://github.com/jstrieb/github-stats) or similair
+- [ ] Transfer documentation from [README.md](./README.md) to [GitHub Wiki](https://github.com/BOEM25/The-Bot/wiki)??
+
+---
+
 ## *Core* features
 
 >main file
@@ -15,8 +25,7 @@
 
 - [ ] Incorperate slash commands for all commands
 
->project
-- [ ] switch config file to toml???
+
 
 
 ## *Fun* features
@@ -52,7 +61,7 @@
 
 >polls cog
 
-- [ ] polls
+- [ ] Polls
 
 ## *Game* features
 
