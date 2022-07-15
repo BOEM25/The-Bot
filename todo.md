@@ -15,6 +15,10 @@
 
 - [ ] Incorperate slash commands for all commands
 
+>project
+- [ ] switch config file to toml???
+
+
 ## **Fun** features
 
 >music cog
