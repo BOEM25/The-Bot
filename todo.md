@@ -7,7 +7,7 @@
 
 ## *Project*
 
-- [ ] Switch config file to [toml](https://toml.io/en/)???
+- [ ] Switch config file to [toml](https://toml.io/en/) for easier editing???
 - [ ] Add stats to [README.md](./README.md) cause it looks cool, [jstrieb github-stats](https://github.com/jstrieb/github-stats) or similair
 - [ ] Transfer documentation from [README.md](./README.md) to [GitHub Wiki](https://github.com/BOEM25/The-Bot/wiki)??
 
@@ -20,13 +20,11 @@
 - [ ] Log events and actions
 - [ ] Auto generate `config.json`
 - [ ] Load settings
+- [ ] Improve config create if `config.json` doesn't exist
 
 >all
 
 - [ ] Incorperate slash commands for all commands
-
-
-
 
 ## *Fun* features
 

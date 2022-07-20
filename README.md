@@ -4,6 +4,9 @@ This is just another general bot repository trying to incorperate a bunch of fea
 
 If you have any ideas for this project, you can fork it and add them to the [todo.md](./todo.md) or create an [issue](https://github.com/BOEM25/The-Bot/issues) with enhancement lable. Optionally you can code these ideas yourself and make a pull request :).
 
+\
+Using the nextcord library for this project since it seems to have all the features I want, like easy slash commands.
+
 ## Config file
 
 ```json
@@ -14,7 +17,8 @@ If you have any ideas for this project, you can fork it and add them to the [tod
     "settings": {
         "some_setting": false, <-- placeholder
         "log_level": "CRITICAL"
-    }
+    },
+    "testing_guilds": ["1234567890"]
 }
 ```
 
@@ -46,3 +50,7 @@ If you have any ideas for this project, you can fork it and add them to the [tod
 - INFO
 - DEBUG
 - NOTSET
+
+### Testing guilds
+
+`"testing_guilds:"` a list of guild ids to test slash commands in.
