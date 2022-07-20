@@ -21,6 +21,7 @@
 - [ ] Auto generate `config.json`
 - [ ] Load settings
 - [ ] Improve config create if `config.json` doesn't exist
+- [ ] Make a system to type commands in terminal to get things like bot status or reload cogs
 
 >all
 

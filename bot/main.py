@@ -42,7 +42,7 @@ async def test_slash(interaction: nextcord.Interaction):
 
 
 
-
+# Loading cogs
 
 
 
